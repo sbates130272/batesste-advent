@@ -1,13 +1,13 @@
-# bateste-advent: An Advent Calandar Name Generator
+# bateste-advent: An Advent Calendar Name Generator
 
 ## Overview
 
 Christmas can be a busy time and a random but fair allocation of
-advent calandar doors is just one of billions of tasks that need to be
+advent calendar doors is just one of billions of tasks that need to be
 done.
 
 In the spirit of Christmas here is a small Python program to offload
-that task from your wearly brain. Enjoy!
+that task from your weary brain. Enjoy!
 
 ## Usage
 
@@ -19,8 +19,8 @@ An example usage might be
 ```
 $ ./advent.py --names Alice,Bob,Charlie,Debora
 ```
-This will generate a fair allocation of the default 24 advent calandar
-doors for a single advent calandar. So an example output would be
+This will generate a fair allocation of the default 24 advent calendar
+doors for a single advent calendar. So an example output would be
 ```
 $ ./advent.py --names Alice,Bob,Charlie,Debora
 Door 1: Alice
