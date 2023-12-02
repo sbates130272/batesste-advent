@@ -7,7 +7,7 @@ advent calendar doors is just one of billions of tasks that need to be
 done.
 
 In the spirit of Christmas here is a small Python program to offload
-that task from your wearly brain. Enjoy!
+that task from your weary brain. Enjoy!
 
 ## Usage
 
