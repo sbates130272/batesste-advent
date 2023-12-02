@@ -33,4 +33,6 @@ if __name__ == "__main__":
             random.shuffle(args.names)
             advent+=args.names
 
-        print(advent)
+        for i, item in enumerate(advent):
+            print(f'Door {i+1}: {item}')
+        print()
